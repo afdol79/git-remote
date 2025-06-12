@@ -1,1 +1,1 @@
-# Welcome to MyGit
+# Welcome to MyGit by Ratchanon
